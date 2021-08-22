@@ -1,5 +1,5 @@
+# THONG NGO
 # BitcoinVN BTM
-
 [![Build Status](https://travis-ci.com/bitcoinvietnam/btm.bitcoinvn.io.svg?branch=master)](https://travis-ci.com/bitcoinvietnam/btm.bitcoinvn.io)
 
 Product information and documentation for [BitcoinVN](https://bitcoinvn.io/en) BTMs.
@@ -59,4 +59,5 @@ Edition is already optimised for adding, updating and removing documentation pag
 ### Navigation
 
 * Change `site.show_full_navigation` to control all or only the current navigation group being open.
-#Assign: Thong Ngo
+
+# Assign: Thong Ngo
