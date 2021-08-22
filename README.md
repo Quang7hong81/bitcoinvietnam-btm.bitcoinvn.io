@@ -59,3 +59,4 @@ Edition is already optimised for adding, updating and removing documentation pag
 ### Navigation
 
 * Change `site.show_full_navigation` to control all or only the current navigation group being open.
+#Assign: Thong Ngo
